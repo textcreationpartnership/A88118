@@ -1,0 +1,544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a true Christian: described in a sermon at the parish church of St. Botolph Bishopsgate. At the funeral of Mr. William Cade, deputy of that ward. By John Lake, D. D. late rector of that parish; and now Lord Bishop of Chichister</title>
+            <author>Lake, John, 1624-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88118</idno>
+            <idno type="STC">Wing L195A</idno>
+            <idno type="STC">ESTC R227280</idno>
+            <idno type="EEBO-CITATION">99896735</idno>
+            <idno type="PROQUEST">99896735</idno>
+            <idno type="VID">136222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136222)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2445:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a true Christian: described in a sermon at the parish church of St. Botolph Bishopsgate. At the funeral of Mr. William Cade, deputy of that ward. By John Lake, D. D. late rector of that parish; and now Lord Bishop of Chichister</title>
+                  <author>Lake, John, 1624-1689.</author>
+               </titleStmt>
+               <extent>[18], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Obadiah Blagrave at the Black Bear in St. Pauls Church-Yard, over against the little North-Door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The title page is a cancel.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136222:1"/>
+            <p>THE CHARACTER OF A True Chriſtian: Deſcribed in a SERMON AT THE Pariſh Church of St. <hi>BOTOLPH BISHOPSGATE.</hi>
+            </p>
+            <p>At the FUNERAL of Mr. <hi>WILLIAM CADE,</hi> DEPUTY of that WARD.</p>
+            <p>BY JOHN LAKE, D.D. <hi>Late RECTOR of that Pariſh; and now</hi> LORD BISHOP of <hi>CHICHISTER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Obadiah Blagrave</hi> at the <hi>Black Bear</hi> in St. <hi>Pauls</hi> Church-Yard, over againſt the little North-Door.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:136222:2"/>
+            <pb facs="tcp:136222:2"/>
+            <head>To his much Honoured Friend Sir <hi>JOSEPH SHELDON,</hi> ALDERMAN of the WARD of St. <hi>BOTOLPH BISHOPSGATE.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I have been thin<g ref="char:EOLhyphen"/>king a good while with my ſelf, what returns to make for that great civility and reſpect I have received from you, yet I could never meet with ſuch a fit opportu<g ref="char:EOLhyphen"/>nity to expreſs my acknowledgments thereof, as this preſent <hi>Diſcourſe</hi> hath furniſhed me withall. Which I aſ<g ref="char:EOLhyphen"/>ſure you no ſooner offer'd it ſelf, than I moſt readily embraced, being ex<g ref="char:EOLhyphen"/>ceeding
+<pb facs="tcp:136222:3"/>glad that I was now in a ca<g ref="char:EOLhyphen"/>pacity to teſtifie in a publick manner that high reſentment which I have of all your kindneſs, and to remove all occaſions of ſuſpecting, that I was as inſenſible of your favours, as I con<g ref="char:EOLhyphen"/>feſs my felf undeſerving of them. Aſſoon as I perus'd the Sermon, I concluded immediately it would prove a <hi>Preſent</hi> very ſuitable, and by conſequence acceptable to your ſelf, becauſe it bears your own <hi>Image,</hi> and deſcribes your <hi>Character,</hi> and not on<g ref="char:EOLhyphen"/>ly ſo, but ſets likewiſe a <hi>Crown</hi> upon that head which is encircled with thoſe golden Letters, and beautified with thoſe goodly Lineaments. Here, Sir, you will read <hi>your ſelf</hi> by reading the deſcription of a <hi>good man</hi> and a <hi>good Chriſtian;</hi> And for your greater encouragement to continue and per<g ref="char:EOLhyphen"/>ſevere
+<pb facs="tcp:136222:3"/>in a due exerciſe of all thoſe moral Virtues and Perfections, by which you ſo much illuſtrate your <hi>place,</hi> and adorn your <hi>ſtation,</hi> you will here likewiſe meet with your <hi>great re<g ref="char:EOLhyphen"/>compence of reward:</hi> A <hi>Scepter</hi> ready to fall into your hands; a <hi>Crown</hi> ready to environ your brows; an <hi>everlaſting Manſion</hi> opening wide to receive you; a <hi>City</hi> above the reach of flames, <hi>a building of God, not made with hands, eternal in the heavens.</hi> This is the <hi>true Christians</hi> moſt ſure and certain <hi>Re<g ref="char:EOLhyphen"/>ward;</hi> and <hi>faithfulneſs unto death,</hi> that is, a conſtant and ſincere obedience to the Laws of Chriſt, is his moſt ſure and certain <hi>Character.</hi>
+            </p>
+            <p>This Sir, is the <hi>Preſent</hi> which with all humility I lay before you, deſiring your acceptance of it, as a <hi>testimony</hi> of that great reſpect and ſervice which
+<pb facs="tcp:136222:4"/>I deſervedly owe unto you. I con<g ref="char:EOLhyphen"/>feſs it had been more ſatisfaction to me, to have offer'd ſomething that was purely my own, though but a <hi>bunch of Myrrh,</hi> and a <hi>little Frankin<g ref="char:EOLhyphen"/>cenſe,</hi> than to bring with me <hi>leaves of Gold,</hi> which I have not ſo truly bor<g ref="char:EOLhyphen"/>rowed as indeed extorted from a more able hand, the Reverend and Learned Author of this Diſcourſe. Which (to tell you the truth) had ſeen the light many months before, had not the Parents <hi>exceſſive modeſty,</hi> and the mul<g ref="char:EOLhyphen"/>titude of Affairs, which he hath hi<g ref="char:EOLhyphen"/>therto been incumbred withall (as well before the <hi>conception,</hi> as ſince the <hi>bring<g ref="char:EOLhyphen"/>ing forth</hi>) caus'd him to detain it in obſcurity, and contrary to the piety of the <hi>Levites</hi> Daughter (<hi>Exod.</hi> 2.3.) to cover it with flags and Northern duſt, not to preſerve his own production,
+<pb facs="tcp:136222:4"/>though <hi>fair</hi> and <hi>goodly,</hi> but to ſtifle and deſtroy it.</p>
+            <p>But I ſhall ſpend no time in making an Apology for it; and that for this reaſon only, becauſe I know it needs none. If it doth not ſufficiently re<g ref="char:EOLhyphen"/>preſent the <hi>natural Parent,</hi> you may pleaſe to remember, that it comes to you by a ſecond hand; which wanting skill to dreſs and trim it, hath rather ſullied the brightneſs of its complexi<g ref="char:EOLhyphen"/>on, and ſtained the beauty of it. Much I could ſpeak in commendation of it, as it appears before you, but more I dare not, leſt I diſpleaſe my Friend, who though I have ſpoke but little, will judge it too much, whereas all that had the happineſs to know and un<g ref="char:EOLhyphen"/>derſtand him, muſt needs know and underſtand this likewiſe, that his real worth deſerves a great deal more.</p>
+            <pb facs="tcp:136222:5"/>
+            <p>I have ſtill one Argument in re<g ref="char:EOLhyphen"/>ſerve, which makes me more than con<g ref="char:EOLhyphen"/>fident of your favourable acceptance of this preſent addreſs, and that is drawn from the ſubject of the diſ<g ref="char:EOLhyphen"/>courſe it ſelf, or that which gave occa<g ref="char:EOLhyphen"/>ſion to it, your <hi>worthy Friend</hi> and my <hi>honoured Kinſman,</hi> who is gone before us to enjoy that <hi>Crown,</hi> which from all eternity hath been deſign'd to in<g ref="char:EOLhyphen"/>circle the Heads, and adorn the Tem<g ref="char:EOLhyphen"/>ples of all <hi>true</hi> and <hi>faithful</hi> Chriſtians. The memory of your ancient <hi>Deputy</hi> muſt needs be precious to you, though after his death, to whom his perſon was ſo acceptable (becauſe ſo ſervice<g ref="char:EOLhyphen"/>able) during his life. And indeed there was nothing in him that could render him otherwiſe than ſingularly acceptable to all ſober and conſidera<g ref="char:EOLhyphen"/>tive men: For he was of a truly brave
+<pb facs="tcp:136222:5"/>and manly ſpirit, ſuch as had no<g ref="char:EOLhyphen"/>thing of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in it: He feared nothing ſo much, as to commit any unhandſome or diſhoneſt action, to offend God or injure his Neighbour. For my own part I muſt confeſs, that J have took more pleaſure and delight in converſing with him, and in the enjoyment of his excellent ſociety, than ever I did in that fair Revenue which he hath left behind him. For though he was naturally a man of a ſolid and ſerious temper of mind, yet it was ſo handſomely checker'd with ſuch a becoming <hi>modesty</hi> and <hi>gravity,</hi> with ſo much <hi>courteſie</hi> and <hi>affability,</hi> ſuch an <hi>obliging carriage</hi> and <hi>deport<g ref="char:EOLhyphen"/>ment,</hi> and many times with ſuch <hi>plea<g ref="char:EOLhyphen"/>ſantneſs of diſcourſe,</hi> that I have rarely met with ſuch a happy conjunction of <hi>moral Virtues,</hi> as were viſible in him.
+<pb facs="tcp:136222:6"/>He was noble and generous with <hi>fru<g ref="char:EOLhyphen"/>gality;</hi> civil and ſociable with <hi>ſobriety;</hi> juſt and honeſt with <hi>mercy</hi> and <hi>clemen<g ref="char:EOLhyphen"/>cy.</hi> He fed the hungry, and cloth'd the naked: He was eyes to the blind and feet to the lame, and he made the widows heart to ſing for joy. And though ſometimes the impertinencies of ſome that were raſh and inconſide<g ref="char:EOLhyphen"/>rate, and the unreaſonable deſires of others that were <hi>religiouſly</hi> perverſe and obſtinate, might make him break out into a little heat and paſſion, yet it ne<g ref="char:EOLhyphen"/>ver was of any long continuance; like a flaſh of Lightning, it vaniſhed with its appearance; and though it <hi>roſe</hi> ma<g ref="char:EOLhyphen"/>ny hours after the Sun, yet it was quick in motion, and (according to the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> directions) was always <hi>ſet</hi> before it.</p>
+            <p>But as it is not proper for me, ſo nei<g ref="char:EOLhyphen"/>ther is it my deſign to beſtrew his <hi>earth</hi>
+               <pb facs="tcp:136222:6"/>with violets and roſes, or to illuſtrate his <hi>Marble</hi> with gilded banners. As to this, I am very happily prevented by a more skilful hand in the concluſion of this Diſcourſe. Though (to ſay the truth) he himſelf hath done it much better than either of us both. His ex<g ref="char:EOLhyphen"/>cellent life and converſation hath per<g ref="char:EOLhyphen"/>fum'd his memory, and made his name to ſend forth more fragrant odours, than all the <hi>precious Ointment</hi> we can caſt upon it. By his prudence and charity (of which he had very large proportions) he rais'd a Monument to himſelf more durable than the framed Stones of <hi>Paros,</hi> and by continuing faithful unto death, hath ſhrin'd his Aſhes in an immortal Urn.</p>
+            <p>But I am affraid I have tired you too much already with this tedious E<g ref="char:EOLhyphen"/>piſtle, and therefore do humbly crave
+<pb facs="tcp:136222:7"/>your pardon; which I have but little reaſon to doubt of, conſidering your excellent temper &amp; diſpoſition, which I underſtand ſo well, that I verily be<g ref="char:EOLhyphen"/>lieve I can do nothing to diſpleaſe you. And though the ſtrength of my affe<g ref="char:EOLhyphen"/>ctions hath carrried me out into a ſhort <hi>Panegyrick</hi> of our deceaſed Friend, yet for this I hope I ſhall not meet with a<g ref="char:EOLhyphen"/>ny rigid cenſure, ſeeing it is but a juſt return of civility to him, who both <hi>li<g ref="char:EOLhyphen"/>ving</hi> and <hi>dying</hi> did always abound in all imaginable expreſſions of love and kindneſs unto me. And now, Sir, J dare aſſure you, I have but very few things to add, before J kiſs your hands and bid you Farewell.</p>
+            <p>One thing J deſire to acquaint you withall, before you come ſo far as to take notice of it, that in all this Diſ<g ref="char:EOLhyphen"/>courſe there is no mention made of our
+<pb facs="tcp:136222:7"/>Friends <hi>Pedegree</hi> and <hi>Extraction.</hi> Nei<g ref="char:EOLhyphen"/>ther was the Reverend Author, when he Preach'd the Sermon, deſir'd by me to enlarge upon that ſubject. For though he was deſcended of worthy Anceſtors, who for ſeveral years liv'd in good credit and repute at a Coun<g ref="char:EOLhyphen"/>trey-Village called <hi>Boughton</hi> in <hi>Not<g ref="char:EOLhyphen"/>tingham-ſhire,</hi> yet methinks all that honour and glory which we derive from our Progenitors, is not ſo much to be priz'd and valued, as <hi>perſonal worth</hi> and <hi>acquired eminency.</hi> The <hi>Spaniards</hi> have a Saying amongſt them, which comes now into my mind; <hi>Al hombre bueno no buſques abo<g ref="char:EOLhyphen"/>lengo,</hi> i. e. <hi>Never trouble thy ſelf to en<g ref="char:EOLhyphen"/>quire after the Pedegree of a virtuous man.</hi> His own excellency is enough to make him eſteem'd in the world; and a good name purchaſed by vir<g ref="char:EOLhyphen"/>tuous
+<pb facs="tcp:136222:8"/>actions, ſhall far out ſhine all thoſe great and glorious Titles, which an ancient Houſe, and a renowned Fa<g ref="char:EOLhyphen"/>mily can convey unto us.</p>
+            <p>And thus it was with this worthy Perſon; His own wiſdom and pru<g ref="char:EOLhyphen"/>dence made his <hi>countenance to ſhine,</hi> and whilſt he liv'd advanced his fame and reputation in the world, and having <hi>ſerv'd his generation</hi> for ſeveral years, conducted at laſt his <hi>gray bairs</hi> with <hi>honour to the grave.</hi> He did not ſo much receive a luſtre from his Houſe and Kindred, as added of him<g ref="char:EOLhyphen"/>ſelf a <hi>remarkable light</hi> and <hi>brightneſs</hi> to it: Not unlike the Sun, which makes both the Heavens and Earth to gliſter and ſhine, not with any borrowed Rays and reflected Beams, but with his own naked Splendor.</p>
+            <p>I ſhall not trouble you here with a
+<pb facs="tcp:136222:8"/>Catalogue of his <hi>charitable works</hi> at his deceaſe, becauſe they have long ſince been publickly divulg'd, and the perſons concern'd, already in actual poſſeſſion of them. Not that I would conceal any thing out of any by re<g ref="char:EOLhyphen"/>ſpect or reſervation to my ſelf, but becauſe I look upon it as an unneceſſa<g ref="char:EOLhyphen"/>ry performance. For as for my ſelf, I have been ſo far from falling ſhort of a moſt punctual execution of his will and pleaſure, that in ſundry particu<g ref="char:EOLhyphen"/>lars (eſpecially where love and kind<g ref="char:EOLhyphen"/>neſs and charity were concern'd) I I have far outdone it. And ſo con<g ref="char:EOLhyphen"/>ſcious to my ſelf I am of my own <hi>faithfulneſs</hi> and <hi>integrity,</hi> that I dare publickly bid the world defiance to tax me with any one particular action, that may in the leaſt beſpeak me either <hi>
+                  <g ref="char:V">Ʋ</g>ncharitable</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>njuſt.</hi> That which I
+<pb facs="tcp:136222:9"/>can tax my ſelf withall, and which doth ſtill afflict my ſpirit, is principally this, that the great <hi>care, diligence,</hi> and <hi>circumſpection,</hi> which I uſed in the ma<g ref="char:EOLhyphen"/>nagement of theſe ſecular affairs, did eat up ſo much of my precious time, and unavoidably drew me from the exerciſe of my Function, in which I always took ſo much contentment and ſatisfaction. But <hi>now</hi> having diſ<g ref="char:EOLhyphen"/>charg'd that truſt which Gods provi<g ref="char:EOLhyphen"/>dence hath laid upon me, I am ready to return to my Maſters ſervice, to which I doubt not in the leaſt but that his <hi>goodneſs</hi> will ſpeedily reſtore me, as his <hi>wiſdom</hi> thought fit for a ſeaſon to draw me from it.</p>
+            <p>But, Sir, I forget my ſelf, and much more you.</p>
+            <p>That I may not beyond all mea<g ref="char:EOLhyphen"/>ſure abuſe your patience, I will chooſe
+<pb facs="tcp:136222:9"/>rather to break off abruptly, with this ſhort, though duplicate Petition.</p>
+            <p>Firſt, That the world may daily abound with ſuch worthy <hi>perſons</hi> as <hi>your ſelf</hi> and our <hi>deceaſed Friend,</hi> men <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> clothed about with abundance of <hi>wiſdom, understanding, juſtice,</hi> and <hi>integrity,</hi> that by this means virtue and true goodneſs may be encourag'd, and vice and wicked<g ref="char:EOLhyphen"/>neſs may be diſcountenanc'd, though it bear it ſelf out with a brazen brow, and a conſcience many times of as courſe a metal.</p>
+            <p>Secondly, and to conclude, That for all your reſpect and kindneſs to me God may reward you abundant<g ref="char:EOLhyphen"/>ly, and return it a hundred and a hundred fold into your boſom: That <hi>peace,</hi> and <hi>plenty,</hi> and <hi>length of days,</hi> may be your portion here in this
+<pb facs="tcp:136222:10"/>world; and <hi>glory,</hi> and <hi>honour,</hi> and <hi>immortality,</hi> in the world to come: Which is the earneſt prayer, and hearty deſire of</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your very humble, &amp; Very much obliged Servant,
+<hi>James Cade.</hi>
+               </signed>
+               <dateline>
+                  <hi>Morefields,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 2. 1671.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:136222:10"/>
+            <head>THE TRUE CHRISTIANS <hi>CHARACTER</hi> and <hi>CROWN.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>REVEL. 2.10.</hi>
+               </bibl>
+               <q>
+                  <p>—Be thou faithful unto death, and I will give thee a crown of life.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Have no ſooner read my Text, but I know you have accommodated it to the occaſion of this time, the Funerals of our deceaſed Brother; whom I may fitly call the <hi>Tranſcript</hi> of it. Whilſt he lived he was the Tranſcript of the for<g ref="char:EOLhyphen"/>mer part, even <hi>faithful unto death;</hi> and he is now be<g ref="char:EOLhyphen"/>come the Tranſcript of the latter part, God (no doubt) having given him, as the reward of his faithfulneſs, <hi>a crown of life.</hi> There you might behold him in his ſpiritual <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>preſſing towards the mark;</hi> now enjoy<g ref="char:EOLhyphen"/>ing <hi>the price of his high calling.</hi> There running with patience the race that was ſet before him; now entred into his reſt. There, in ſhort conquering, now tri<g ref="char:EOLhyphen"/>umphing; there winning, now wearing the crown. In the former, he went before us, as our <hi>example;</hi> in the latter, he is gone before us, as our <hi>encouragement:</hi>
+               <pb facs="tcp:136222:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:136222:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:136222:20"/>And it will be our honour and happineſs to follow him in both.</p>
+            <p>The words are part of an Epiſtle to the Angel (<hi>i.e.</hi> the <hi>Biſhop</hi>) of the Church of <hi>Smyrna;</hi>
+               <note place="margin">
+                  <hi>Polycarpus</hi> was the <hi>Angel</hi> or <hi>Biſhop</hi> of this Church, as Eccleſiaſtical Hiſtory hath inform'd us. See <hi>Euſeb. li.</hi> 4. <hi>cap.</hi> 14, 15. There is extant an Epiſtle of <hi>Ignatius</hi> to this <hi>Polycarpus,</hi> and another of his to the Church of <hi>Smyr<g ref="char:EOLhyphen"/>na,</hi> of which <hi>Polycarp</hi> was Biſhop. By which it appears of how great antiquity Epi<g ref="char:EOLhyphen"/>ſcopacy is, being as ancient as the Apoſtles themſelves, whoſe immediate ſucceſſors the Biſhops moſt certainly were. <hi>Polycarpus non ſolùm ab Apoſtolis eruditus,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Euſeb. loco citat. f.</hi> 127.</note> but it cometh open to us, and it will not be rudeneſs, but our wiſdom and duty to look into it, and take out the Leſſon. I mean not here to <hi>reveal</hi> the Revelation, or to <hi>unclaſp the ſealed book;</hi> to <hi>cast</hi> the water of the <hi>ſeven Vials,</hi> or to make the <hi>Trumpets</hi> give a <hi>certain ſound.</hi> The myſtical part of this Book I leave to thoſe who love to <hi>ſee</hi> where they have <hi>no light,</hi> and to look moſt upon God where he hideth himſelf from them. My Text is a piece of plain Morality; a buſineſs not of the head, but of the heart. Here are no Riddles, unleſs of love and wonder, that God ſhould twiſt our duty with our intereſt, and encou<g ref="char:EOLhyphen"/>rage the ſhort exerciſe of virtue with everlaſting re<g ref="char:EOLhyphen"/>wards; faithfulneſs in a little, ſo it be unto death with a crown of life, which knoweth neither mea<g ref="char:EOLhyphen"/>ſure nor end.</p>
+            <p>Accordingly the words preſent you with
+<list>
+                  <item>1. A Precept,</item>
+                  <item>2. A Promiſe,</item>
+                  <item>3. The neceſſary connexion of both.</item>
+               </list>
+            </p>
+            <p>The firſt, contains <hi>mans duty; Be thou faithful.</hi> The ſecond, <hi>Gods Grace; I will give thee, &amp;c.</hi> The third, the mutual relation, and dependance of the one upon the other; <hi>Be thou faithful unto death, and I will give thee a crown of life.</hi>
+            </p>
+            <pb n="3" facs="tcp:136222:20"/>
+            <p>I begin with the <hi>Precept (as you alſo muſt do, if ever you would attain the promiſed crown)</hi> and there are theſe two things in it:
+<list>
+                  <item>(1.) The <hi>duty</hi> it ſelf, <hi>Be thou faithful.</hi>
+                  </item>
+                  <item>(2.) The <hi>extent</hi> of that <hi>duty, unto death.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt thing that offers to our conſideration is the <hi>duty</hi> it ſelf, which containeth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>whole of man,</hi> and conſiſteth in the careful and conſcionable diſ<g ref="char:EOLhyphen"/>charge of all the reſt. This is <hi>
+                  <g ref="char:V">Ʋ</g>niverſale Officium,</hi> an Office of univerſal neceſſity and importance. What is ſpoken to this Angel, ſpeaketh to me, to you, and to every one that hath an ear to hear what the Spirit ſaith unto the Churches.</p>
+            <p>Moſt men are apt enough (if not too much) to read this Leſſon to the Angels of the Churches: To ſay unto <hi>Archippus Take heed to the Ministery which thou haſt received of the Lord, that thou fulfil it;</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 4.17.</note> and it is well if they ſay it in ſuch modeſt terms as theſe. They are better acquainted with his duty than their own, and are rigid exacters of it. That burthen which even <hi>real,</hi> much more theſe <hi>metaphorical Angels,</hi> are inſuffi<g ref="char:EOLhyphen"/>cient for, they aggravate upon them, and weigh them out their work by the Shekel of the Sanctuary. They muſt be <hi>Angels,</hi> not in name and ſtile only, but in all the meaſures of Angelical Perfection; and where<g ref="char:EOLhyphen"/>in they fall, or ſeem to fall ſhort, each man darteth his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Be thou faithful,</hi> at them; and doth not ſo much admoniſh, as cenſure and upbraid them.</p>
+            <p>But however men may turn the edge of this exhor<g ref="char:EOLhyphen"/>tation another way, yet it is levelled at all; ſpeaketh to as many as deſire and expect the crown, and none may exempt himſelf, or plead a priviledge. Chriſt (as occaſion is) ſaith <hi>aliis alia,</hi> ſeveral things to ſeveral
+<pb n="4" facs="tcp:136222:21"/>men; one thing to one, and another to another, ac<g ref="char:EOLhyphen"/>cording to their various neceſſities and capacities: but this <hi>omnibus &amp; ſingulis,</hi> to all and every one, and whatever his place and ſtate is, he muſt adorn it with <hi>fidelity.</hi>
+            </p>
+            <p>This is not a meer Evangelical Counſel for thoſe that would be great in the Kingdom of Heaven, that would have crowns more <hi>rich</hi> and <hi>radiant</hi> than their fellows, or not content with <hi>crowns,</hi> would have <hi>co<g ref="char:EOLhyphen"/>ronets</hi> added to them for their ſupererogatory virtue and merit. It is not appropriate to Chriſtians of the higheſt form in Chriſts School, or whoſe place and ſtate giveth them the advantage of ſingular perfection. It is not confined to the Monks Cloiſter and Cowl; to thoſe that live out of the world whilſt they are in it. The <hi>Laity</hi> may not ſhuffle it off to the <hi>Clergy,</hi> nor men of the <hi>active</hi> to men of the <hi>contemplative</hi> life: But it is the duty of all Chriſts Diſciples in common, abſolutely neceſſary to conſtitute them Chriſtians, and to make them capable of being Saints.</p>
+            <p>It ſaith unto the <hi>Magiſtrate, Be thou faithful:</hi> Behave thy ſelf as one that is Gods Vicegerent upon earth, that holds his place, repreſents his perſon, and hath the impreſs of his power: See that thou bear neither the Scepter, nor the Sword in vain; but ſtand up like <hi>Phinehas,</hi> and <hi>execute judgment,</hi> leſt thou fall under the ſtroke of it thy ſelf. See that God and his Ho<g ref="char:EOLhyphen"/>nour (to whom thou oweſt all thine) ſuffer no detri<g ref="char:EOLhyphen"/>ment. Reflect thoſe beams of his with which thou ſhineſt, and be in effect <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>breathing I<g ref="char:EOLhyphen"/>mage of God.</hi>
+            </p>
+            <p>It ſaith unto the <hi>Minister, Be thou faithful:</hi> Take heed to thy ſelf, and to thy Doctrine. <hi>Be a pattern to
+<pb n="5" facs="tcp:136222:21"/>the Believers,</hi> in <hi>word,</hi> in <hi>converſation,</hi> in <hi>charity,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 4.16. <hi>Ibid. v.</hi> 12.</note> in <hi>ſpirit,</hi> in <hi>faith,</hi> in <hi>purity.</hi> Shine like a Star, burn like a Seraphim; and think Chriſt hath fixed thee in ſo emi<g ref="char:EOLhyphen"/>nent a Sphere, that ſhouldeſt ſhed thy rays upon all about thee. Watch for thoſe Souls which God hath given thee in charge, as at the peril of thine own; and when thy Lord cometh, let him find thee ſo do<g ref="char:EOLhyphen"/>ing.</p>
+            <p>It ſaith unto the <hi>rich</hi> and <hi>honourable,
+<note place="margin">
+                     <hi>Prov.</hi> 3.9.</note> Be thou faith<g ref="char:EOLhyphen"/>ful: Honour the Lord with thy ſubſtance, and with the firſt fruits of thy increaſe.</hi> Thy lot is fallen to thee in a good ground, only be thou careful to cultivate and improve it. Know, God hath given to thee that he might give to others by thee, and if thou embezzle or bury thy Talents, they will only aggravate thy accompt. Thy opportunities and advantages ſet thee nearer heaven, and give thee the capacities of a more <hi>orient crown,</hi> if thou wilt work ſalvation out of them: but otherwiſe they will add precipitation to thy ruin. Thy authority and example are very influential, and thou canſt neither periſh nor be ſaved but in <hi>state;</hi> and therefore in reſpect to other mens ſouls, be <hi>faith<g ref="char:EOLhyphen"/>ful to thine own.</hi>
+            </p>
+            <p>It ſaith yet again to the <hi>poor</hi> and <hi>abject, Be thou faithful: Faithful, though in a little:</hi> And by how much leſs it is, thy care is more concerned to uſe it well, and to make up what is wanting in ſtock, by a wiſe and faithful improvement of it; like <hi>Zachaeus,</hi> ſupplying what he lacked in ſtature by climbing up into a Sycamore Tree. Thou maiſt be zealous for God, though thou canſt not make ſo great a blaze; and moving in a <hi>lower</hi> and <hi>leſſer Sphere,</hi> thou maiſt the better <hi>fill</hi> it. Another ſtands upon <hi>higher,</hi> but thou upon <hi>ſafer</hi> ground; and
+<pb n="6" facs="tcp:136222:22"/>with ſmaller helps and means thou haſt fewer tempta<g ref="char:EOLhyphen"/>tions alſo.</p>
+            <p>Briefly, it ſaith to <hi>every man,</hi> of what <hi>kind, degree,</hi> or <hi>quality</hi> ſoever he is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Be thou faithful:</hi> Faithful in thy <hi>general,</hi> and faithful in thy <hi>ſpecial</hi> cal<g ref="char:EOLhyphen"/>ling; faithful to God, to man, to thine own ſoul; faithful in all relations and conditions, and in all the actions and offices both of common and chriſtian life. Give <hi>ſuum cuique</hi> to every one his due; to God his due, and to thy neighbour <hi>his.</hi> Attend the place and ſtation wherein God hath ſet and ſettled thee; finiſh the work which he hath given thee to do, and refer the wages to him, who never faileth to pay his ſervants that which he hath promiſed them.</p>
+            <p>Thus the duty of the Text looks on every man alike, and is his faithful Monitor. He may hear this as a <hi>voice behind him,</hi>
+               <note place="margin">
+                  <hi>Iſ.</hi> 30.21.</note> ſaying, <hi>This is the way, walk in it, when he turneth to the right hand, and when he turneth to the left.</hi>
+            </p>
+            <p>One man cannot be as enlarged in his piety, as diffu<g ref="char:EOLhyphen"/>ſive in his charity, as uſeful in his place, as another of greater abilities and opportunities, but he may and muſt be as <hi>faithful</hi> in his meaſure. Some other duties have their peculiar objects and appropriations to times, perſons, places, with the like; but <hi>faithfulneſs</hi> is an in<g ref="char:EOLhyphen"/>gredient to all, and gives them acceptance. Our Sa<g ref="char:EOLhyphen"/>viour putteth <hi>wiſe</hi> and <hi>faithful</hi> ſervant together, <hi>Matth.</hi> 24.45. <hi>good</hi> and <hi>faithful</hi> ſervant together, <hi>Mat.</hi> 25.21. and as he is not a wiſe, who is not a good; ſo he is nei<g ref="char:EOLhyphen"/>ther <hi>wiſe,</hi> nor <hi>good,</hi> who is not a <hi>faithful</hi> ſervant alſo. St. <hi>Paul</hi> recounts this as a ſpecial mercy from God to be found <hi>faithful,</hi> 1 <hi>Cor.</hi> 7.25. and it is the Crown of <hi>Antipas</hi> his Croſs, that he was Chriſts <hi>faithful</hi> Martyr,
+<pb n="7" facs="tcp:136222:22"/>
+               <hi>Revel.</hi> 2.13. He that without this giveth his body to the fire, only taketh Hell by violence, and the firſt <hi>death</hi> conſigneth him only to the <hi>ſencond.</hi>
+            </p>
+            <p>We call Chriſt Lord and Maſter, and we ſay well, for ſo he is; but it is not enough to treat him with this eaſie formality, and to paſs ſuch cheap complements upon him, unleſs we pay him that <hi>fidelity</hi> which is due from ſervants to their Maſter, and that humble and loyal alliegeance which is due from ſubjects to their ſovereign Lord. God is faithful for his part,
+<note place="margin">1 <hi>Theſ.</hi> 5.24.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Faithful is he that hath called you, who alſo will do it.</hi> The Goſpel is <hi>faithful</hi> for its part <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">2 <hi>Tim.</hi> 2.11, 12.</note> 
+               <hi>This is a faithful ſaying, that if we ſuffer with him, we ſhall alſo reign with him.</hi> Chriſt is faithful for his part, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The faithful and true witneſs;</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 3.14.</note> or (as he is alſo ſtiled) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he that ſaith <hi>Amen</hi> to both. And accordingly thoſe that are,
+<note place="margin">
+                  <hi>Rev.</hi> 17.14.</note> or expect to be with Chriſt, muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>called, and choſen, and faithful;</hi> not called and choſen only (for this every one will arrogate and aſſume, and in the want of other evidence <hi>vote</hi> himſelf ſo) but <hi>faithful</hi> alſo; and herein they approve themſelves cal<g ref="char:EOLhyphen"/>led and choſen, becauſe they have obtained mercy to be <hi>Faithful.</hi>
+            </p>
+            <p>Yet men are not with more eaſe called and choſen, than (admitting their own conceits) they are faithful too: And, in their ſenſe of it, they are faithful more than enough. So faithful, that they can at once pro<g ref="char:EOLhyphen"/>voke Gods juſtice, and truſt in his mercy, and rely upon Chriſts merits without doing any thing that he commands. So faithful, that they can at once <hi>ſin</hi> and <hi>ſaint</hi> themſelves, and ſecurely expect to be ſaved by him whom they daily crucifie. So faithful, that their
+<pb n="8" facs="tcp:136222:23"/>faith removeth mountains, <hi>Mount Sinai</hi> and <hi>Mount Zion</hi> at once, the Law both of <hi>Moſes</hi> and <hi>Chriſt.</hi> So faithful in ſhort, that they can reconcile the moſt un<g ref="char:EOLhyphen"/>chriſtian practices with the faith and affiance of a Chri<g ref="char:EOLhyphen"/>ſtian; the confutation and contradiction of the whole Goſpel with hopes and comforts of it; (<hi>i. e.</hi> faithful<g ref="char:EOLhyphen"/>neſs with the greateſt unfaithfulneſs in the world;) and whilſt they take Hell by violence of endeavour, take Heaven by violence of uſurpation.</p>
+            <p>Such faithful ones as theſe the world is full of; who have ſuch a <hi>plerophory</hi> or fulneſs of faith, that none of the other virtues or duties of Chriſtianity can find room with them; ſo faithful, that they do onely be<g ref="char:EOLhyphen"/>lieve. But this is <hi>Inſidelis fiducia,</hi> an <hi>Infidel faith,</hi> faith without fidelity. Which kind of unfaithful, unfruit<g ref="char:EOLhyphen"/>ful faith, hath damned more, than a true faith in Chriſt his name hath ſaved; and the more any man believeth with it, the more he may tremble. This faith when Chriſt cometh he ſhall find upon the earth, and ſcarce then be able to beat men out of it. Many ſhall ſay to him, even in that day, <hi>Domine, Domine,</hi> Lord, Lord, we are they that have eaten and drunk in thy preſence, and thou haſt taught in our ſtreets; and if ſuch as we find not admittance and acceptance with thee, who ſhall? But in all this true faith will be hard to be found; and it is neither ſlander, nor ſolaeciſm to ſay, that the greater part of the Chriſtian world (in this ſenſe) is <hi>Infidel.</hi>
+            </p>
+            <p>True faith is that which maketh a man faithful to Chriſt,
+<note place="margin">
+                  <hi>Lib.</hi> 3. <hi>de Gubern. Dei. p.</hi> 70. <hi>&amp; l.</hi> 4. <hi>p.</hi> 100.</note> and to keep all his commands faithfully (as <hi>Salvian</hi> defined it long ſince) which maketh us <hi>Chriſti fideles,</hi> Chriſt his liege-men, in the ſame ſenſe that they are called <hi>Regis fideles,</hi> the Kings liege-ſubjects and
+<pb n="9" facs="tcp:136222:23"/>ſervants, who yield that homage and fealty to him which they owe.</p>
+            <p>This was <hi>Abraham</hi>'s <hi>faith,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.17, 24, 26.</note> by which he offered up his onely ſon <hi>Iſaac,</hi> and himſelf a whole burnt-offering with him. This was <hi>Moſes</hi> his <hi>faith,</hi> which made him <hi>esteem the</hi> very <hi>reproach of Chriſt greater riches than all the treaſures of Egypt.</hi> This was the <hi>faith</hi> of the glo<g ref="char:EOLhyphen"/>rious company of the Apoſtles, of the goodly fellow<g ref="char:EOLhyphen"/>ſhip of the Prophets, of the noble army of Martyrs and Confeſſours, which exerted it ſelf in <hi>the ſancti<g ref="char:EOLhyphen"/>mony of their lives; their ſtrict obſervation of the di<g ref="char:EOLhyphen"/>vine laws; their perſevering in holy actions with patience and hope; their deſpiſing earthly, their prizing and preſ<g ref="char:EOLhyphen"/>ſing after heavenly things; their contempt of death; their courage for Chriſt; and all the other inſtanees of an ex<g ref="char:EOLhyphen"/>cellent piety and virtue.</hi>
+            </p>
+            <p>From this active faith (faith commenſurate to fide<g ref="char:EOLhyphen"/>lity) they, and all good Chriſtians, are not onely called, but conſtituted faithful: not from that unactive eaſie faith, which maketh men reſt wholly upon what Chriſt hath done for them, without doing any thing either for him, or for themſelves; which leaneth hard upon his Croſs, but doth not take it up; and believeth in, not obeyeth him. This maketh faith a very accoun<g ref="char:EOLhyphen"/>table thing, and well worthy of that wiſdom and holineſs which hath attributed ſo much to it in the Goſpel; as that <hi>by faith we are juſtified, by faith we live, by faith we are ſaved, i. e.</hi> by a faith which ſo believeth in Chriſt, as by believing to love him, by loving to adhere to him, and by adhering to him to live and dye in his embraces; which ſacrificeth a man's whole honour and intereſt to the ſervice of Chriſt and his own ſalvation; and thinketh nothing too much that he
+<pb n="10" facs="tcp:136222:24"/>can do or ſuffer for Chriſt, who hath wrought ſuch won<g ref="char:EOLhyphen"/>ders of mercy for him.</p>
+            <p>To be faithful then (in the notion of my Text) conſiſts not in giving a naked aſſent to the Doctrins of Chriſtianity; not in arrogating and appropriating to our ſelves the promiſes of the Goſpel, or rather pro<g ref="char:EOLhyphen"/>miſing to our ſelves that which the Goſpel promiſeth us not; nor yet in the moſt ſtedfaſt recumbency upon Chriſt, or the ſtrongeſt application of his merits to our ſouls: But it conſiſts,</p>
+            <p n="1">(1.) <hi>In praeſtandis promiſſis,</hi> in <hi>performing of our own,</hi> as <hi>well as exacting Gods promiſes at his hands.</hi> And as he is faithful that hath promiſed, ſo likewiſe muſt we; we ſtand engaged by our Baptiſmal Vow and Covenant to forſake the Devil and all his works; and we add treachery and perjury to ſin if we do not. We have devoted our ſelves Chriſts faithful ſoldiers and ſervants; and we break both our faith and our oath, and are Renegado's from our Profeſſion if we fight not againſt ſin, the world, and the Devil (much more if we fight for them) under his banner.
+<note place="margin">
+                  <hi>Gregor. Hom.</hi> 29. <hi>in Evang.</hi>
+               </note> 
+               <hi>Tunc veraciter fideles ſumus, ſi quod verbis promittimus, operibus com<g ref="char:EOLhyphen"/>plemus. Then, and only then, we are truly faithful, when we copy out in deeds, what we covenanted in words, and our life is the counterpart to our profeſſion.</hi> This is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>anſwer of a good con<g ref="char:EOLhyphen"/>ſcience</hi> towards God, 1 <hi>Pet.</hi> 3.21. when a man can put that Baptiſmal Queſtion to himſelf again, <hi>Abrenuncias?</hi> Do'ſt thou renounce the Devil, the World, and the Fleſh? and his conſcience can eccho to it, <hi>Abrenuncio,</hi> I renounce them all; and he hath renounced his Bap<g ref="char:EOLhyphen"/>tiſm that cannot, and forfeited Gods part of the Co<g ref="char:EOLhyphen"/>venant, by violating his own.</p>
+            <pb n="11" facs="tcp:136222:24"/>
+            <p n="2">(2.) To be faithful conſiſts, <hi>In peragendis officiis,</hi> in <hi>executing the duties of our place</hi> and <hi>calling,</hi> and <hi>ful<g ref="char:EOLhyphen"/>filling</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>all Gods wills;</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 13.22.</note> both what he will have us to do, and what he will have us to ſuffer; that which is contrariant to our humours and intereſt, as well as that which is conſiſtent and com<g ref="char:EOLhyphen"/>plyant with them. When we come unto Chriſt, not only with <hi>Domine ſalva,</hi> Lord ſave us, we periſh; but with <hi>Domine quid me vis facere?</hi> Lord what wilt thou have me to do? When we go on <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Rom.</hi> 1.17.</note> 
+               <hi>from faith to faith;</hi> from faith <hi>believing,</hi> to faith <hi>obeying</hi> the Goſpel; and whoever believeth but obeyeth not the Goſpel, contradicts both himſelf and it in that very act; for the Goſpel teacheth him to acknowledge and believe, that Chriſt is become the Author of eter<g ref="char:EOLhyphen"/>nal ſalvation <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Heb.</hi> 5.9.</note> to them <hi>onely</hi> that obey him. Chriſt muſt and will have a throne in every ſoul, where he erects his mercy-ſeat; and they muſt ſubmit to his ſcepter to whom he holdeth it forth; and ſwear fealty, if they would have their pardon. As they muſt not make him all <hi>Prince,</hi> ſo not all <hi>Saviour</hi> neither; but have faith in him as a <hi>Saviour,</hi> fidelity to him as a <hi>Prince.</hi> Otherwiſe they may vaunt them<g ref="char:EOLhyphen"/>ſelves in the ſpecious name and title of <hi>Believers,</hi> but <hi>faithful</hi> they are not.</p>
+            <p>He onely is a faithful, who is a dutiful ſervant; who is active in his own Sphere, though not pragma<g ref="char:EOLhyphen"/>tick out of it. Who when Chriſt biddeth go, he goeth; come, he cometh; do this, he doth it: and having choſen Chriſt, leaveth him to chuſe all the reſt. In ſhort, let Chriſt give the word, and (as <hi>Cuſhi</hi> to <hi>Joab</hi>) he boweth the head and runneth. Whatever the inſtance is, he is Chriſts humble ſervant; and
+<pb n="12" facs="tcp:136222:25"/>(having learn'd not to diſpute, but to obey) ſaith (as Chriſt hath taught him both by his doctrine and ex<g ref="char:EOLhyphen"/>ample) Thus <hi>it becometh us to fulfil all righteouſneſs.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 3 15.</note> But again,</p>
+            <p n="3">(3.) To be faithful conſiſts, <hi>In elocandis talentis,</hi> in <hi>putting to uſe thoſe talents (whether of nature,</hi> or <hi>of for<g ref="char:EOLhyphen"/>tune,</hi> or <hi>of grace) which God putteth into our hands, not to treaſure up, but traffick with, and to occupy, not poſſeſs onely.</hi> Even he that hath but one talent oweth God an account of it; and (in an apt proportion) as our receipts are,
+<note place="margin">
+                  <hi>Mat.</hi> 24.24.</note> ſhall our reckoning be. He was an evil ſervant, that called God an hard Maſter, gather<g ref="char:EOLhyphen"/>ing where he had not ſtrewed, and reaping where he had not ſowen. Our good God (of whom nothing is to be ſaid or conceived but what is good) requireth no more of any man than he giveth; or no more but the employment and improvement of it. But withall he is an evil and unfaithful,
+<note place="margin">
+                  <hi>Mat.</hi> 24.26.</note> who is a ſlothful ſervant; and the talents which he now burieth, ſhall riſe up to his condemnation. God, though he is a bounteous, yet he is not an improvident Maſter: but he keeps an exact Audit both of our receipts, and of our returns, and if they correſpond not, will ſeverely avenge the careleſs or faithleſs neglect. Even <hi>Paradiſe</hi> it ſelf wan<g ref="char:EOLhyphen"/>ted dreſſing; and the very beſt gifts and graces of God in us will contract and gather ruſt, if they be not kept in exerciſe; and be ready to decay and dye for want of ſtirring up. God in the mean time giveth us his talents but in truſt, to negotiate with for his uſe and our own benefit; and hath herein made us not <hi>proprietaries,</hi> but <hi>ſtewards;</hi> and it is required in ſtew<g ref="char:EOLhyphen"/>ards,
+<note place="margin">1 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.2.</note> 
+               <hi>that a man be found faithful.</hi> We may take our Bill and ſet down <hi>fifty,</hi> where an <hi>hundred</hi> is due: but
+<pb n="13" facs="tcp:136222:25"/>when it cometh to be conferred with Gods debt-book, we ſhall be eternally aſhamed and confounded. Once more,</p>
+            <p n="4">(4.) To be faithful conſiſts, <hi>In ſervandis depoſitis,</hi> in <hi>keeping thoſe things that are committed to our charge,</hi> and <hi>which God will one day redemand at our hands.</hi>
+            </p>
+            <p>Such for inſtance is, <hi>The calling wherein God hath cal<g ref="char:EOLhyphen"/>led us.</hi> For Chriſtianity calleth not men from their calling, but to it, and would conjure them (as it were) within that circle.
+<note place="margin">1 <hi>Cor.</hi> 7.20.</note> 
+               <hi>Let every man abide in the ſame calling wherein he was called;</hi> abide in it as in his proper place and ſphere, out of which he cannot be ſafe. He that hath a <hi>Miniſtery, must wait on his Ministring;</hi> and he that hath none muſt not invade it. Our condition of life in this world, and our calling to another, may ſtand well together; or rather cannot ſtand, unleſs together. Let <hi>Romes</hi> cloiſtered Monks, under colour of ſingular religion and devotion, embrace an idle and unprofitable life; and thoſe Monks <hi>at large</hi> amongſt us, in pretence to follow the call of Chriſt, forſake their own, and take Satans calling out of his hand, which is to go to and fro in the earth, and to walk up and down in it; yet St. <hi>Paul</hi> cenſureth all ſuch, as walking <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>irregularly</hi> and <hi>diſorderly,</hi> out of their rank, and beſide the Chriſtian Rule, 2 <hi>Theſ.</hi> 3.11. Even thoſe that ſuffer the outward exerciſes of Reli<g ref="char:EOLhyphen"/>gion (eſpecially Hearing of Sermons, then commen<g ref="char:EOLhyphen"/>ding, or confuting them, and doing all the contrary) to eat out the neceſſary duties of their calling (which is not zeal, but a religious kind of ſloth) they alſo offer but the ſacrifice of fools; and they might ſerve Chriſt more acceptably in the ſeaſonable diſcharge of the duties of their ſpecial calling, than in this impor<g ref="char:EOLhyphen"/>tunate
+<pb n="14" facs="tcp:136222:26"/>attendance upon thoſe that immediately con<g ref="char:EOLhyphen"/>cern his worſhip. To live honeſtly in our calling, is a piece of that faithfulneſs which we owe to our great Maſter; not to live idly out of one.</p>
+            <p>Another of thoſe <hi>Depoſita</hi> which are faithfully to be kept is,
+<note place="margin">
+                  <hi>Rom.</hi> 6.17.</note> 
+               <hi>That form of Doctrine which hath been deli<g ref="char:EOLhyphen"/>vered to us, or to which we have been delivered.</hi> This St.
+<note place="margin">2 <hi>Tim.</hi> 2.2.</note> 
+               <hi>Paul</hi> committeth and commendeth to <hi>Timothy,</hi> that he may commit the ſame to faithful men, who ſhall be able to teach others alſo. And thus by a conſtant ſuc<g ref="char:EOLhyphen"/>ceſſion it is come handed down to us, and we ſhould keep it as the moſt precious <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the richeſt trea<g ref="char:EOLhyphen"/>ſure on this ſide Heaven; lay it up (as the Virgin Mother of our Lord laid up his ſayings) in our heart, and wear it in effect engraven there. This faith which was once <hi>delivered to the ſaints (delivered of old,
+<note place="margin">
+                     <hi>Jude v.</hi> 7.</note> not lately deviſed, and once delivered, i. e. once for all)</hi> we ſhould earneſtly contend for; remember how we have received and heard, and hold faſt, and even dye in the defence, if we cannot live in the peaceable enjoyment of it. And this bringeth on</p>
+            <p>A third and laſt <hi>Depoſitum,</hi> no leſs faithfully to be kept, <hi>viz. faith and a good conſcience,</hi> which whoever puts away ſinketh and maketh Shipwrack.
+<note place="margin">1 <hi>Pet.</hi> 1.5.</note> We are kept by the power of God through faith unto ſalva<g ref="char:EOLhyphen"/>tion; and therefore ſhould keep this at the utmoſt peril of our ſoul. As the doctrine of faith muſt be kept ſacred and inviolable, ſo likewiſe the grace of it.
+<note place="margin">
+                  <hi>Heb.</hi> 10.23.</note> We muſt hold faſt the profeſſion hereof <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, without wavering or warping, either to the right hand, or to the left: and ſtand unſhaken againſt all the winds and waves of perſecution,
+<note place="margin">Tertul. in Apol.</note> as being founded upon rock. Even when <hi>crimen nominis fit nomen cri<g ref="char:EOLhyphen"/>minis,</hi>
+               <pb n="15" facs="tcp:136222:26"/>when the meer <hi>crime</hi> of the <hi>chriſtian name</hi> is accompted the <hi>name</hi> of a <hi>prodigious crime,</hi> yet we muſt hold faſt our profeſſion ſtill;
+<note place="margin">
+                  <hi>Pſ.</hi> 31.19.</note> truſt in Chriſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>before the ſons of men:</hi> And although they may take away our life,
+<note place="margin">
+                  <hi>Rev.</hi> 3.11.</note> yet let them not take away our crown. Hence we are ſaid by Baptiſm to <hi>put on Chriſt,</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 3.27.</note> ſo as to wear the pro<g ref="char:EOLhyphen"/>feſſion of him uppermoſt; and when at any time we deny or diſſemble our profeſſion, we in effect <hi>put him off</hi> again. Such night-walkers as <hi>Nicodemus,</hi> who come not to Chriſt but under the veil of dark<g ref="char:EOLhyphen"/>neſs, are only the <hi>ghoſts</hi> of Chriſtianity. For thoſe that in ſtorm caſt <hi>faith</hi> and <hi>good conſcience</hi> over-board to ſave their temporal concerns, and will deny Chriſt rather than themſelves, they chuſe a <hi>miſchief</hi> before an <hi>inconvenience,</hi> commute an <hi>inſelicity</hi> for a <hi>crime,</hi> and to avoid a <hi>faggot</hi> incur <hi>hell fire.</hi>
+            </p>
+            <p>But enough of the <hi>duty</hi> it ſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Be thou faithful.</hi> And before I am well aware I am fallen upon the next particular, <hi>viz.</hi>
+            </p>
+            <p n="2">(2.) The <hi>extent</hi> of that duty, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>unto death;</hi>
+               <note place="margin">In Adman. ad Graecos.</note> or as <hi>Clemens Alexandrinus</hi> phraſeth it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to the very laſt gaſp,</hi> even breathing out our ſoul in it. As we muſt run the race that is ſet before us, ſo we muſt run it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">
+                  <hi>Heb.</hi> 12, 1.</note> 
+               <hi>with patience and perſeverance,</hi> nor is the crown conſigned to thoſe that contend, but thoſe that overcome. St. <hi>Paul</hi> himſelf triumpheth not when he putteth on his har<g ref="char:EOLhyphen"/>neſs, but when about to put it off. He knoweth there is laid up for him a <hi>crown of righteouſnes,</hi>
+               <note place="margin">2 <hi>Tim.</hi> 4.7, 8.</note> but <hi>de reliquo, henceforth</hi> only; when he was now a veterane in the Chriſtian Warfare, had already ſpent a long life, and had nothing left but to dye in it.</p>
+            <pb n="16" facs="tcp:136222:27"/>
+            <p>I know moſt mens aſſurance is upon eaſier terms, and of an earlier date.</p>
+            <p>One fancieth to himſelf a kind of <hi>fatal decree,</hi> which neceſſarily attaineth its end though he never ſet foot in the way thither; and Henceforth there is laid up for him a crown of life. In Gods dark book (by what perſpective I know not) he reads his name written, and that with ſuch indelible characters, as all the De<g ref="char:EOLhyphen"/>vils in hell, all the fins upon earth, cannot blot it out. And now inſtead of giving diligence to make his election ſure, he is pleaſed at cheaper rates to think it ſo: So ſure, that nothing can reſiſt his happineſs, much leſs reverſe his deſtined bliſs. The force of his nativity will carry him to the crown; or God in his own defence muſt do it, as he would have his eternal counſel made good.</p>
+            <p>Another having dreamed himſelf into a ſtate of grace, is ſecurely confident he can never fall from it, and Henceforth there is laid up for him a crown of life. His calling he thinks ſure, and then his crown muſt be ſo too. He is kept by the power of God through faith unto ſalvation, and now needs keep himſelf no longer. He may as well fear that the Hea<g ref="char:EOLhyphen"/>vens themſelves ſhould fall, or God himſelf fall out of them, as he fail of the crown. Unleſs Gods eter<g ref="char:EOLhyphen"/>nal purpoſe, unchancheable promiſe, and almighty power, fail firſt, he cannot; for they are all engaged in his defence.</p>
+            <p>A third hath been faithful, and run well for a time, and Henceforth there is laid up for him a crown of life. He looketh ſo much at the things which are paſt, that he forgetteth the things which are before; and whilſt he thinketh that the ſtrength of his firſt
+<pb n="17" facs="tcp:136222:27"/>impulſe will carry him like an Arrow to the Mark, he falleth down in the midſt of his courſe, like a Bird that is weary of her flight; and ſo is caſt by <hi>Vincenti dabitur, It ſhall be given to him that overcometh.</hi> His zeal perhaps (like a Torch in an high wind) maketh a great blaze, but ſoon ſwealeth it ſelf a way; and when the Bridegroom cometh, his lamp is gone out, and all his vain hopes and expectations with it.</p>
+            <p>Thus do vain men ſport themſelves in their own de<g ref="char:EOLhyphen"/>ceivings: But God is not mocked. He looks not at beginnings in Chriſtians, but at their ends: and not he that ſtarteth firſt, but he that continueth to the laſt ſhall be crowned. <hi>Ye did run well,</hi> ſaith St.
+<note place="margin">
+                  <hi>Gal.</hi> 5.7.</note> 
+               <hi>Paul</hi> to his backſliding <hi>Galatians, who did hinder you?</hi> God for certain did not. He carrieth us on to the end, and crowneth us in it, if we draw not back, and drive him from us. But whoever did, they loſt all that they had done, yea and all that they had ſuffered too, and ſtood onely as monuments of their own ruin. Let a man have renounced the moſt darling delights, un<g ref="char:EOLhyphen"/>dergone the harſheſt duties and ſevereſt diſciplines of Chriſtianity, have ſuſtained infamies, injuries, and all manner of indignities for righteouſneſs ſake; yet re<g ref="char:EOLhyphen"/>volting at laſt, defeateth and deſtroyeth all, and him<g ref="char:EOLhyphen"/>ſelf with it. If he will have his old ſins again, he ſhall have the guilt together with them, and that aggra<g ref="char:EOLhyphen"/>vated with folly and ingratitude. <hi>Lot</hi>'s Wife, by looking back periſheth in the very Confines of <hi>Zoar;</hi> and God therefore erected her into a Pillar to tell the World, that <hi>relenting Virtue ki<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leth with the recoil.</hi> The latter part of our life, ſupplanteth the former; and God taketh us as he findeth us at his appearing and his coming.</p>
+            <pb n="18" facs="tcp:136222:28"/>
+            <p>If after all, men can attain this Crown better cheap, I envy not their eaſe: onely, in a caſe of ſuch high concernment, I would have them careful, that they loſe not their ſoul for a pleaſing conceit, and periſh <hi>fatally,</hi> whilſt they think to be ſaved <hi>ſo.</hi> Let the Candidates of ſo rich and radiant a Crown, be but as perſeverant in good, as the Candidates of wrath and death are in evil; let them take Heaven but with ſuch violence as theſe take Hell, and they cannot miſcarry: And do they expect God to deal with them upon greater diſproportions? I am ſure they ſerve a better Maſter, have nobler employments, greater encou<g ref="char:EOLhyphen"/>ragements; a crown that ſhall laſt as long as God is God, and run parallel with the ages of eternity; and may therefore more than recompence the ſervices and ſufferings of a ſhort life.</p>
+            <p>Faithful <hi>unto death</hi> then he muſt be, that would be crowned <hi>after it;</hi> and not unto death onely, but even in and into it alſo. As he muſt offer up his body a <hi>living ſacrifice</hi> to God, ſo (if occaſion be) a <hi>dying</hi> one too;
+<note place="margin">
+                  <hi>Act.</hi> 21.13.</note> being ready (with St. <hi>Paul</hi>) not onely <hi>to be bound</hi> (as the ſacrifices were wont) but <hi>to dye for the name of the Lord Jeſus:</hi> And he is moſt unworthy of that high and honourable name, who will not take up the moſt painful and ignominious Croſs that weareth the inſcri<g ref="char:EOLhyphen"/>ption of <hi>Jeſus of Nazareth</hi> upon it.
+<note place="margin">
+                  <hi>Matth.</hi> 5.10, 11.</note> This name will plait his thorns into a crown, turn perſecution into a beatitude, and the flames of Martyrdom into Bon<g ref="char:EOLhyphen"/>fires of joy. This will make him ſing at the ſtake like a dying Swan; ſuffer death with more ſerenity and ſatisfaction, than the witty cruelty of his enemies in<g ref="char:EOLhyphen"/>flicts it; lye down in a bed of flames, as if it were a bed of roſes; and having prayed for his murtherers, to fall a ſleep.</p>
+            <pb n="19" facs="tcp:136222:28"/>
+            <p>And if the Heathens have thought it diſcreetly eligi<g ref="char:EOLhyphen"/>ble to give their life a ranſom for fame or virtue, well may the Chriſtian (who is an Heir of better hopes) do this to eternal and never failing purpoſes: to ſecure Chriſt's honour, his own innocence, and to have Gems added to his Crown. Death herein ſhoots its ſting but to loſe it, and though it kill him, it cannot hurt him: all it can do is but to kill the body, <hi>i. e.</hi> to prevent a more lingring death by the feeble hand of ſickneſs, or old age, and to cure it of thoſe diſeaſes which kill with equal certainty, and greater torment. And for the Soul (which is the better part, if not the whole of man) it knocketh but off its chains and fet<g ref="char:EOLhyphen"/>ters, and reſtoreth it to it ſelf, and to God that gave it. Thus whilſt we ſeem to love God better than our ſelves, we never love our ſelves ſo well as in this very act; for if in love and loyal duty to God we lay down our life for him, he will give it us again, and a crown of bliſs and immortality together with it.</p>
+            <p>And here, paſſing over from the <hi>precept</hi> to the <hi>pro<g ref="char:EOLhyphen"/>miſed reward,</hi> I might (if I had affections and expreſſi<g ref="char:EOLhyphen"/>ons anſwerable to the matter in hand) rap both my ſelf and you into St. <hi>Paul</hi>'s Extaſie, 'till we were even loſt in it. But theſe are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>unſpeakable words,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 12.4.</note> (as St. <hi>Paul,</hi> by a pretty ſeeming contradiction, calls them.) All the tongues of men and Angels are here too ſhort; or, if they could ſpeak, who could hear?</p>
+            <p>It ſhall ſuffice to give you a <hi>tranſient glimpſe</hi> of this Crown, ſo far as may incourage your fidelity and con<g ref="char:EOLhyphen"/>ſtancy in God's ſervice; and not the leaſt glimpſe of it, but will make all the labours and ſufferings of this life vaniſh in the compariſon.</p>
+            <p>A <hi>Crown</hi> then it is; and what can be ſaid or concei<g ref="char:EOLhyphen"/>ved
+<pb n="20" facs="tcp:136222:29"/>more and greater? <hi>Exerce ambitionem tuam,</hi> ſet thy utmoſt ambition on work, thou man of deſires; here is that which will fill all the appetites of it. The moſt towring thought riſeth no higher than a Crown, or onely to ſet one Crown upon another: and were other Crowns accumulated 'till they reached to this, they would caſt down themſelves before this <hi>crown of life,</hi> this <hi>crown of glory,</hi> which fadeth not away. Within the compaſs of this crown meets all that <hi>Religion</hi> or <hi>Reaſon</hi> calleth the chiefeſt good: as ſo many orient jewels in this crown, there is <hi>perfect knowledg, perfect holineſs,
+<note place="margin">1 <hi>Cor.</hi> 15.27.</note> perfect peace, perfect love, perfect joy;</hi> and, which is the <hi>Crown</hi> of this Crown, <hi>here is God All in all.</hi> The Woman in <hi>Revel.</hi> 12.1. hath a crown of twelve Stars upon her head: but were all the Stars united in<g ref="char:EOLhyphen"/>to one Conſtellation, and ſhould diſhevel all the pride and glory of their beams, it would not equal the glory of this Crown, but be as a dark and opacous ſhadow to it.</p>
+            <p>Through the light and luſtre which this <hi>crown</hi> will ſhed upon us, all <hi>faithful</hi> Chriſtians (according to the promiſe of our Saviour,
+<note place="margin">
+                  <hi>Mat.</hi> 13.43. <hi>Dan.</hi> 12.3.</note> and the correſponding pre<g ref="char:EOLhyphen"/>dictions of the Prophets) <hi>ſhall ſhine like the Sun in the Kingdom of their Father,</hi> even as <hi>the brightneſs of the Firmament, and as the Stars forever, and ever.</hi>
+            </p>
+            <p>Should our now deceaſed Brother from under this <hi>crown,</hi> ſee what ſcuffling there is for Crowns and Scep<g ref="char:EOLhyphen"/>ters (thoſe fine gay guilded <hi>Nothings</hi>) here below, he would look upon it with ſuch becoming ſcorn, as a Phi<g ref="char:EOLhyphen"/>loſopher upon Boys ſcrambling for ſhells of Nuts, and fiercely contending for tinſel gayeties of no greater value.</p>
+            <pb n="21" facs="tcp:136222:29"/>
+            <p>The richeſt of theſe crowns <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Plut. de Tranquill. animi.</note> cannot keep off, or cure a fit of the head-ach; but within the circle of <hi>this Crown</hi> cometh neither ſorrow nor pain.</p>
+            <p>The glory of theſe crowns, <hi>dum nitet cadit,</hi> whilſt it glittereth, falleth and breaketh; maketh a blaze like a Meteor, then ſhooteth, and dyeth out; but this crown onely burniſheth with the wearing, the maſſy glory whereof, no time, no eternity impaireth.</p>
+            <p>Theſe crowns at beſt are more honourable than hap<g ref="char:EOLhyphen"/>py; ſit heavy upon the head which they ſeem to a<g ref="char:EOLhyphen"/>dorn; and whilſt they ſparkle with Diamonds, are ſtuffed with thorns. But the joys of this Crown equal the glories of it; with their <hi>crowns</hi> the Saints have <hi>harps,</hi> and free from all inward and outward diſtracti<g ref="char:EOLhyphen"/>ons, do nothing but in conſort with the Angels, ſing ſoft <hi>requiem</hi>'s to themſelves, and triumphant ſongs of joy and praiſe to God and to the Lamb, who is bleſſed for evermore.</p>
+            <p>Thus is Chriſtianity <hi>certamen, ſed bonum,</hi> a fight, but a good one: whilſt Kings have uſually their Crowns <hi>croſſed,</hi> the faithful Chriſtian hath his <hi>Croſs crowned;</hi> and that weight of glory which this Crown hath in it, may make all the labour of duty, and preſſure of the Croſs, mere eaſe and delight. Let <hi>Atheiſts</hi> and <hi>Epi<g ref="char:EOLhyphen"/>cures</hi> look upon the Divine life but as a <hi>zealous frenzy,</hi> ſuch as hath no real object, nor ſolid fruits, and ſcorn or pity the ſtrict Profeſſours of it, as men ſoberly and gravely beſide themſelves; and erect in their own fan<g ref="char:EOLhyphen"/>cies, a kind of Spiritual Bedlam for them. Yet theſe fools for Chriſt, will be found the onely wiſe and hap<g ref="char:EOLhyphen"/>py men, when Hell ſhall be no longer a <hi>painted Fire,</hi> nor Heaven a <hi>fools Paradiſe;</hi> but weeping, and wai<g ref="char:EOLhyphen"/>ling
+<pb n="22" facs="tcp:136222:30"/>ſhall put ſcoffing out of countenance, and the ſcor<g ref="char:EOLhyphen"/>ner's chair become more uneaſie than <hi>Phalaris</hi> his Bull; they that ſate in it, ſhall gnaſh their teeth, and become their own Tormentors, to ſee thoſe religious ſneaks crowned with majeſty and glory, whom they had ſo much derided and deſpiſed.</p>
+            <p>Why then, <hi>Opus deterret? mercedem vide.</hi> Doth the <hi>work</hi> affright you? conſider the <hi>reward.</hi> If the way ſeemeth irkſome and unpleaſant, the end is bliſs<g ref="char:EOLhyphen"/>ful and happy. Look not upon what you are called to do and ſuffer, but beyond both to the glorious re<g ref="char:EOLhyphen"/>ward, and faint if you can.</p>
+            <div type="part">
+               <epigraph>
+                  <q>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.
+<bibl>
+                        <hi>Pro.</hi> 10.7. <hi>Sept.</hi>
+                     </bibl>
+                  </q>
+               </epigraph>
+               <p>ANd now what have I been doing all this time, but preſenting our <hi>deceaſed Bro<g ref="char:EOLhyphen"/>ther</hi> before you? In ſhewing what you ſhould be, I have only ſhewed what he was; and in ſhewing what you ſhall be, I have ſhewed what he is: And by a meet application of generals to particulars you may read it over in him.</p>
+               <p>We live in an age wherein we may too truly complain with the Pſalmiſt,
+<note place="margin">
+                     <hi>Pſ.</hi> 12.1.</note> 
+                  <hi>The faith<g ref="char:EOLhyphen"/>ful are periſhed from the children of men:</hi> and out of that ſmall remnant which was left, we have now loſt one, that might have ſtood for a great many. A <hi>faithful man,</hi> and a <hi>faithful Chriſtian.</hi> One that (according to
+<pb n="23" facs="tcp:136222:30"/>the impreſs of that Company, to which he was a good benefactor) <hi>weaved truth</hi> with <hi>truſt,</hi> and in ſo cloſe a <hi>web,</hi> that nothing could divide betwixt them.</p>
+               <p>He was <hi>faithful to God,</hi> and to the intereſts of Religion. A man of a ſober piety, and well tempered zeal. One that affected Re<g ref="char:EOLhyphen"/>ligion for it ſelf, leaving the empty pomp to thoſe that blaze more, but burn leſs; and was content to be, what they deſire to ſeem. That talkative Religion, which ſpendeth it ſelf in hearing much, ſpeaking more, and doing nothing, he was not emulous of; but of the active and operative; and inſtead of ſpeaking great things, did live them. Whilſt others were carried about with every wind of Doctrin, he held faſt the Profeſſion of his Faith, and died in the Communion of that Church in which he was born, and did the publick Worſhip reputation by his conſtant and regular attendance upon it.</p>
+               <p>He was <hi>faithful to the King,</hi> as every man that is faithful to God muſt and will be; for Chriſtianity hath adopted Alliegeance into the Family of Religion, twiſted piety with loyalty, and owneth no man as a good Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="24" facs="tcp:136222:31"/>who is not a good Subject alſo: and ſuch therefore was he. One that ſubmitted himſelf to every ordinance of man <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>for the Lords ſake;</hi> and ſerved the King with as much earneſtneſs and diligence, as others oppoſe him.</p>
+               <p>He was alſo <hi>faithful to his neighbour.</hi> One that did affirm truth perform promiſes, keep contracts, that was humble, peaceable, juſt, merciful; that obliged all, injured or offen<g ref="char:EOLhyphen"/>ded none; and if all were like to him, the word of a Chriſtian might be, as of old it was, the greateſt ſolemnity of ſtipulation in the world. He was none of thoſe half-faced Chriſtians that claſh the two Tables one a<g ref="char:EOLhyphen"/>gainſt another, and break the ſecond with the firſt; who ſet up the duties of piety for a blind, that they may violate thoſe of juſtice and charity more ſecretly and ſecure<g ref="char:EOLhyphen"/>ly. He was none of thoſe that make long prayers the preface to devouring of Wi<g ref="char:EOLhyphen"/>dows houſes, and faſting twice a week the cover for their diſhes full of extortion and exceſs. None of thoſe in ſhort that ſue out a divorce betwixt piety and probity; and when they are leſs than Heathens, will be
+<pb n="25" facs="tcp:136222:31"/>more than Chriſtians. Though he could not make our Saviour's challenge, <hi>Which of you convinceth me of ſin?</hi> yet good old <hi>Samuel's</hi> he boldly might, <hi>Whoſe oxe have I taken? whoſe aſs have I taken? or whom have I de<g ref="char:EOLhyphen"/>franded, or oppreſſed?</hi> and all that knew him would be his compurgatours. Trace him through all relations and conditions (and there are few which he paſſed not through amongſt you) and you will ſcarce find a <hi>ſtain,</hi> much leſs a <hi>blemiſh</hi> upon his memory.</p>
+               <p>And as God (who to encourage virtue, oft-times giveth it the earneſt of its reward in this life) had raiſed him to a conſiderable height: ſo he did not look from that height with ſcorn on thoſe below him, but only ſhed the influences of it with more advantage upon his <hi>friends</hi> and <hi>relations,</hi> to whom he was a common <hi>ſtore-houſe.</hi> And if it be a piece of groſs infidelity not to provide for a mans own; it muſt be a piece of exemplary Chriſtianity to provide ſo well for other mens: for which cauſe I doubt not but God hath given him <hi>a place and a name better than that of ſons and daughters.</hi>
+                  <note place="margin">
+                     <hi>Iſ.</hi> 56.5.</note> And for thoſe that have ſuſtained ſo great a loſs in him, God
+<pb n="26" facs="tcp:136222:32"/>for his ſake will be ready to ſupply it out of his own Fulneſs; and they have one friend more in heaven, though they have one fewer upon earth.</p>
+               <p>But though his goodneſs was thus diffuſive to his friends and relations, yet it was not confined to them. As the bowels of many poor bleſſed him whilſt he lived, ſo he hath beſprinkled all places, to which he related, with ſome dews of charity at his death.</p>
+               <p>And as he did wiſely and faithfully employ that Talent of wealth which God had en<g ref="char:EOLhyphen"/>truſted him withall, ſo likewiſe did he em<g ref="char:EOLhyphen"/>ploy all his other Talents of parts, and power, and practical prudence (whereof he was a great Maſter) to their proper ends and intents; whereby he became ſingularly uſe<g ref="char:EOLhyphen"/>ful in his place, yea <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a <hi>common good.</hi> And as the whole City did partake the influ<g ref="char:EOLhyphen"/>ences of his induſtry, authority, and fidelity, ſo this pariſh above all, whereof he might juſtly be called the <hi>Publick Parent.</hi>
+               </p>
+               <p>And now nothing was left, but that he ſhould be faithful to himſelf and his own ſoul: and (knowing this to be his intereſt, as well as his duty) herein he exerciſed him<g ref="char:EOLhyphen"/>ſelf,
+<pb n="27" facs="tcp:136222:32"/>
+                  <hi>to have always a conſcience void of offence towards God, and towards man.</hi> He regulated his affections, moderated his paſſions, reſtrai<g ref="char:EOLhyphen"/>ned his members from being weapons of un<g ref="char:EOLhyphen"/>righteouſneſs, and kept himſelf unſpotted from the world. In fine, ſo had he governed the whole courſe of his converſation, that as nothing infamous or ſcandalous appeared to others, ſo his own conſcience did not accuſe or upbraid him; but humbly acknowledging his other defaults and defects, he bleſſed that Grace which had preſerved him from the groſs pollutions of ſin; and though he had (as all have) more than enough to ſpeak him frail man, yet nothing in the leaſt to debauch him either into Beaſt, or Devil.</p>
+               <p>But becauſe it is the laſt Act which crown<g ref="char:EOLhyphen"/>eth all the reſt; As living, ſo dying he re<g ref="char:EOLhyphen"/>tained his integrity; and his Graces ſhined moſt when he was about to ſet; and his <hi>light</hi> increaſed, not his <hi>ſhadow.</hi> Then you might behold conſpicuous in him a patient ſubmiſſi<g ref="char:EOLhyphen"/>on under Gods mighty hand, an humble re<g ref="char:EOLhyphen"/>ſignation to the Divine Will; and a truly Chriſtian deportment in all. You might be<g ref="char:EOLhyphen"/>hold much pious devotion, ardent zeal, hea<g ref="char:EOLhyphen"/>venly
+<pb n="28" facs="tcp:136222:33"/>delight, ſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dfaſt hope in Gods mercy diſcover themſelves, and make him ſhine through the Cloud. In token that heaven was his center, the nearer he came, he moved the faſter towards it. And therefore he was frequent in communicating the Holy Eucha<g ref="char:EOLhyphen"/>riſt, as the antepaſt of it, and the <hi>Viaticum</hi> of eternal life. When ſcarce able to ſpeak, he would yet ſpend his dying breath in exhor<g ref="char:EOLhyphen"/>tations and admonitions to thoſe about him; and was willing therein to give up the Ghoſt, that he might be <hi>indeed</hi> faithful unto death.</p>
+               <p>Thus lived, thus dyed our <hi>faithful friend</hi> and <hi>brother.</hi> And now no man will make queſtion but God hath given him the <hi>crown of life,</hi> who is not either an Infidel himſelf, or believeth God to be worſe than one. If God be faithful, <hi>i. e.</hi> if God be God, ſo good and faithful a ſervant as he was, muſt be en<g ref="char:EOLhyphen"/>tered into his <hi>Maſters joy.</hi> I leave him there<g ref="char:EOLhyphen"/>fore to the enjoyment of it, and leave you to the imitation of ſo excellent virtue, till God (in his own due time) ſhall crown you with him, and both you and he ſhall be forever with the Lord.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
